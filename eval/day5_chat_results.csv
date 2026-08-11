@@ -1,0 +1,17 @@
+id	type	question	expected_source	correct	complete	citation_correct	refusal_correct	notes
+C01	精确术语类	MaxKB支持哪些文档格式？	doclist.md	1	1	1		
+C02	精确术语类	MaxKB中有哪些类型的模型？	model_summary.md	1	1	1		
+C03	精确术语类	如何查看智能体的对话日志？	conversation_log.md	1	1	1		
+C04	精确术语类	如何关联问题和知识库分段？	problem.md	1	1	1		
+C05	口语化问题	我想让机器人只根据自己上传的资料回答，该怎么弄？	simple_agent.md + quick_start.md	1	1	1		
+C06	口语化问题	我想改一下模型配置，要去哪里操作？	model_param.md	1	1	1		
+C07	操作流程类	 如何创建知识库？	dataset.md	1	1	1		
+C08	操作流程类	如何创建简易智能体？	simple_agent.md	1	1	1		
+C09	操作流程类	如何上传并解析知识库文档？	doclist.md + dataset.md	1	1	1		
+C10	操作流程类	如何配置模型？	model_summary.md / model_param.md / quick_start.md	1	1	0		
+C11	故障类	文档上传成功但知识库不显示怎么办？	knowledge_base_faq.md	1	1	0		
+C12	故障类	文档上传成功但知识库不显示怎么办？	knowledge_base_faq.md	1	1	0		
+C13	故障类	MaxKB安装失败应该检查什么？	install_faq.md	1	1	1		
+C14	故障类	文档生成问题失败应该怎么排查？	knowledge_base_faq.md	1	1	1		
+C15	知识库外问题	Python中的装饰器是什么？	NONE	1	1	1	1	
+C16	知识库外问题	 MaxKB是否支持Quantum-RAG模式？	NONE	1	1	1	1	
